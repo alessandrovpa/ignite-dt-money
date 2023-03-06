@@ -1,0 +1,60 @@
+{
+  "transaction": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "value": 10000,
+      "category": "Venda",
+      "createdAt": "2023-03-05T22:28:04.677Z"
+    },
+    {
+      "id": 2,
+      "description": "Lanche",
+      "type": "outcome",
+      "value": 45,
+      "category": "Alimento",
+      "createdAt": "2023-03-05T22:30:04.677Z"
+    },
+    {
+      "id": 3,
+      "description": "Pagamento mensal",
+      "type": "income",
+      "value": 3000,
+      "category": "Salario",
+      "createdAt": "2023-03-05T22:28:04.677Z"
+    },
+    {
+      "id": 4,
+      "description": "Luz",
+      "type": "outcome",
+      "value": 280,
+      "category": "Contas",
+      "createdAt": "2023-03-05T22:30:04.677Z"
+    },
+    {
+      "description": "Água",
+      "value": 180,
+      "category": "Contas",
+      "type": "outcome",
+      "createdAt": "2023-03-06T15:48:52.976Z",
+      "id": 5
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "value": 2300,
+      "category": "Vendas",
+      "type": "income",
+      "createdAt": "2023-03-06T15:50:02.386Z",
+      "id": 6
+    },
+    {
+      "description": "Salgado",
+      "value": 15,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-03-06T15:59:37.296Z",
+      "id": 7
+    }
+  ]
+}
